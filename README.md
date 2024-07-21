@@ -1,6 +1,9 @@
 # Task Management System
 
-A simple Java-based Task Management System that allows users to create, manage, and track their tasks with priority and due dates.
+I made a simple Java-based Task Management System that allows users to create, manage, and track their tasks with priority and due dates.
+
+Brief Summary for Task Management System
+My project showcases Object-Oriented Programming (OOP) principles, including class creation, encapsulation, and method implementation. It demonstrates task management functionalities such as adding, updating, and displaying tasks, emphasizing practical application of Java basics and foundational programming concepts.
 
 ## Features
 
@@ -8,12 +11,10 @@ A simple Java-based Task Management System that allows users to create, manage, 
 - Set priority levels (High, Medium, Low)
 - Track due dates
 
-## Getting Started
-
 ### Prerequisites
 
 - Java Development Kit (JDK)
-- IntelliJ IDEA or any other Java IDE
+- IntelliJ IDEA 
 
 ### Installation
 
